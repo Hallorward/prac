@@ -1,2 +1,2 @@
-from local£º
- hellow world£¡
+from local:
+ hellow world!
