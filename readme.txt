@@ -1,2 +1,1 @@
-from local
- hellow world
+practice git op
